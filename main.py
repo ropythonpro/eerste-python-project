@@ -25,7 +25,7 @@ immpplantjes = pygame.image.load().convert_alpha()
 impachtergrond = pygame.image.load().convert_alpha()
 
 shark_x = 500
-shark_y = 4000
+shark_y = 400
 
 circle_radius = 20
 player_x = width // 2
